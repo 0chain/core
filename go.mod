@@ -1,3 +1,3 @@
-module github.com/miracl/core
+module github.com/0chain/miracl
 
 go 1.17
